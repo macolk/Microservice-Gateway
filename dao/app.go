@@ -1,10 +1,10 @@
 package dao
 
 import (
-	"github.com/e421083458/go_gateway/dto"
-	"github.com/e421083458/go_gateway/public"
-	"github.com/e421083458/go_gateway/golang_common/lib"
-	"github.com/e421083458/gorm"
+	"github.com/macolk/go_gateway/dto"
+	"github.com/macolk/go_gateway/public"
+	"github.com/macolk/go_gateway/golang_common/lib"
+	"github.com/macolk/gorm"
 	"github.com/gin-gonic/gin"
 	"net/http/httptest"
 	"sync"

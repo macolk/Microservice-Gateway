@@ -1,8 +1,8 @@
 package dao
 
 import (
-	"github.com/e421083458/go_gateway/public"
-	"github.com/e421083458/gorm"
+	"github.com/macolk/go_gateway/public"
+	"github.com/macolk/gorm"
 	"github.com/gin-gonic/gin"
 )
 

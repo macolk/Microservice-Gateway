@@ -1,7 +1,7 @@
 package public
 
 import (
-	"github.com/e421083458/go_gateway/golang_common/lib"
+	"github.com/macolk/go_gateway/golang_common/lib"
 	"github.com/garyburd/redigo/redis"
 )
 

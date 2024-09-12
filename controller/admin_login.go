@@ -2,13 +2,13 @@ package controller
 
 import (
 	"encoding/json"
-	"github.com/e421083458/go_gateway/dao"
-	"github.com/e421083458/go_gateway/dto"
-	"github.com/e421083458/go_gateway/middleware"
-	"github.com/e421083458/go_gateway/public"
-	"github.com/e421083458/go_gateway/golang_common/lib"
-	"github.com/gin-gonic/contrib/sessions"
-	"github.com/gin-gonic/gin"
+	"github.com/macolk/go_gateway/dao"
+	"github.com/macolk/go_gateway/dto"
+	"github.com/macolk/go_gateway/middleware"
+	"github.com/macolk/go_gateway/public"
+	"github.com/macolk/go_gateway/golang_common/lib"
+	"github.com/macolk/contrib/sessions"
+	"github.com/macolk/gin"
 	"time"
 )
 

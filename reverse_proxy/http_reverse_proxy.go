@@ -1,8 +1,8 @@
 package reverse_proxy
 
 import (
-	"github.com/e421083458/go_gateway/middleware"
-	"github.com/e421083458/go_gateway/reverse_proxy/load_balance"
+	"github.com/macolk/go_gateway/middleware"
+	"github.com/macolk/go_gateway/reverse_proxy/load_balance"
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"net/http/httputil"
